@@ -1,4 +1,4 @@
-# Backtesting a Linear Mean-Reverting Strategy on a Portfolio
+# Backtesting a Linear Mean-Reverting Strategy on a Portfolio 1min timeframe
 multiple instruments mean reversion portfolio strategy example (trio)
 
 #Matlab code
